@@ -2,7 +2,7 @@
   "name": "chef_finder",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://impranaysharma.gtihub.io/chef_finder",
+  "homepage": "http://impranaysharma.gtihub.io/chef_finder_2.0",
   "dependencies": {
     "@auth0/auth0-react": "^2.2.4",
     "@headlessui/react": "^2.0.4",
