@@ -1,0 +1,17 @@
+#solh{
+    width: 70%;
+    text-align: center;
+    font-weight: 700;
+    font-size: 3em;
+    border-bottom: dashed 0.1em gray;
+    border-radius: 2em;
+    margin-left: 14%;
+
+}
+#solimg{
+    height: 20em;
+    width: 30em;
+    margin-left:30%;
+    margin-top: 1em;
+    margin-bottom: 2em;
+}

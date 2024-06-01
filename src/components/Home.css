@@ -1,0 +1,82 @@
+
+#hline{
+    margin-left: auto;
+    text-align: center;
+    font-weight: 600;
+    
+}
+
+.numc{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    text-align: center;
+    font-size: 1.5em;
+    font-weight: 600;
+    color: white;
+    margin-top: 2em;
+}
+#ct1{
+    font-size: 2em;
+    font-weight: 800;
+}
+#nl{
+    background-color: rgba(202, 51, 17, 0.688);
+    width: 20vw;
+    border: solid rgb(57, 26, 63) 0.1em;
+    border-radius: 1em;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
+#nr{
+    background-color: rgba(202, 51, 17, 0.688);
+    width: 20vw;
+    border: solid black 0.1em;
+    border-radius: 1em;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
+
+#mimg{
+    height: 17em;
+    width: 17em;
+    margin-top: -1em;
+    border: solid white 0.1em;
+    border-bottom-left-radius: 2em;
+    border-bottom-right-radius: 2em;
+    margin-left: -4em;
+
+}
+#mide{
+    background-color: white;
+    height: 27em;
+    border: solid 0.2em balck;
+    width: 100%;
+    
+    
+    
+}
+#l1h{
+    font-size: 3em;
+}
+#mide:hover{
+    /* height: 30em; */
+    /* border: solid 0.2em black; */
+    /* transition-duration: 3s; */
+    /* box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; */
+    /* scale: 1.1; */
+}
+#nl:hover{
+    /* color: rgba(223, 30, 30, 0.273); */
+    background-color: rgba(63, 11, 11, 0.589);
+    /* scale: 1.2; */
+    transition-duration: 3s;
+}
+#nr:hover{
+    background-color: rgba(63, 11, 11, 0.589);
+    transition-duration: 3s;
+}
+p{
+    margin-top: -2em;
+}
+.right{
+    margin-left: -1em;
+}
